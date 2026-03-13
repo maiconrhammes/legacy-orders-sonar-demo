@@ -1,0 +1,43 @@
+{
+    "orders": [
+        {
+            "id": 1,
+            "customer": "Ana",
+            "items": [
+                {
+                    "name": "Mouse",
+                    "qty": 2,
+                    "price": 50
+                }
+            ],
+            "status": "paid",
+            "discount": 0
+        },
+        {
+            "id": 2,
+            "customer": "Carlos",
+            "items": [
+                {
+                    "name": "Teclado",
+                    "qty": 1,
+                    "price": 120
+                }
+            ],
+            "status": "pending",
+            "discount": 10
+        },
+        {
+            "id": 3,
+            "customer": "Bruna",
+            "items": [
+                {
+                    "name": "Monitor",
+                    "qty": 1,
+                    "price": 900
+                }
+            ],
+            "status": "paid",
+            "discount": 0
+        }
+    ]
+}
